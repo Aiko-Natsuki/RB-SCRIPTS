@@ -1565,7 +1565,6 @@ addEmote("Squat?", 95441477641149, 39, "Aug 08, 2025")
 addEmote("Slickback", 103789826265487, 39, "Aug 08, 2025")
 
 addEmote("Columbina Sleeping Moon Idle Genshin", 81654892735686, 34, "Jun 27, 2026")
-addEmote("Fly fly without stopping", 77046186094068, 34, "Jun 27, 2026")
 
 
 
