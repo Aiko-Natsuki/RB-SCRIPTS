@@ -1568,7 +1568,7 @@ addEmote("Columbina Sleeping Moon Idle Genshin", 81654892735686, 34, "Jun 27, 20
 addEmote("Fly fly", 127962503052461, 34, "Jun 27, 2026")
 addEmote("L Dance", 73039500693145, 34, "Jun 27, 2026")
 addEmote("Fighting Emote", 128879296222950, 34, "Jun 27, 2026")
-
+addEmote("Zero Two Dance V2", 95385842020103, 34, "Jun 27, 2026")
 
 
 
