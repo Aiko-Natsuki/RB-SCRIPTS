@@ -1577,6 +1577,7 @@ addEmote("Cat Nap", 105016815489641, 34, "Jun 28, 2026")
 addEmote("Longaodance", 12052135480794, 34, "Jun 28, 2026")
 addEmote("Cute Kawaii Posing", 94064805002669, 34, "Jun 28, 2026")
 addEmote("Kawai Shy Sit Idle Pose", 105933851371838, 34, "Jun 28, 2026")
+addEmote("Yuri Jumping Edit", 113702736944973, 55, "Jun 28, 2026")
 
 
 
