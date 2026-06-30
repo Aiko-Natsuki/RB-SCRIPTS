@@ -1585,6 +1585,8 @@ addEmote("💀MM2 Fake Dead", 132384701706046, 55, "Jun 30, 2026")
 addEmote("Gangnam style", 80923445784018, 55, "Jun 30, 2026")
 addEmote("Fake Dead Troll Expressions", 112195772277805, 60, "Jun 30, 2026")
 addEmote("Moonwalk", 111378664166805, 55, "Jun 30, 2026")
+addEmote("💀 MM2", 98654266031450, 55, "Jun 30, 2026")
+addEmote("💀MM2 Fake Death - 8", 112853235929871, 55, "Jun 30, 2026")
 
 
 
