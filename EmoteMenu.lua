@@ -1578,7 +1578,9 @@ addEmote("Longaodance", 120521354580794, 34, "Jun 28, 2026")
 addEmote("Cute Kawaii Posing", 94064805002669, 34, "Jun 28, 2026")
 addEmote("Kawai Shy Sit Idle Pose", 105933851371838, 34, "Jun 28, 2026")
 addEmote("Yuri Jumping Edit", 113702736944973, 55, "Jun 28, 2026")
+
 addEmote("DARE Gorillaz", 88840501982686, 55, "Jun 29, 2026")
+
 addEmote("💀MM2 Fake Dead", 132384701706046, 55, "Jun 30, 2026")
 addEmote("Gangnam style", 80923445784018, 55, "Jun 30, 2026")
 
